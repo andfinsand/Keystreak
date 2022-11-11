@@ -66,5 +66,5 @@ if __name__ == "__main__":
 
 # TO DO:
 # Count key strokes for only letters, numbers, return, space and backspace.
-# How to make it work while typing in different app.
-# Styling - colors, font, background
+# Additional styling.
+# Additional input box for user and paragraph prompt user attempts to type out.
