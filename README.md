@@ -3,7 +3,7 @@
 Created in Pygame.
 
 - Count consecutive keystrokes to assess typing accuracy.
-- Longest streak..
+- Longest streak.
 - Previous streak. 
 - Counter resets when Backspace button pressed. 
 
